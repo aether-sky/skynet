@@ -21,6 +21,7 @@ install nvm:
 (from inside skynet/skynet-frontend/)
 
 `npm install`
+
 `npm run dev`
 
 It should tell you the address where it's hosted.
