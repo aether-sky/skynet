@@ -37,7 +37,7 @@ activate (on windows): `./venv/Scripts/Activate`
 
 Once activated you can install the pip packages needed to run everything (which I totally wrote down a list of):
 
-`pip install fastapi uvicorn azure-identity azure-ai-inference azure-storage-blobazure-mgmt-resource dotenv`
+`pip install fastapi uvicorn azure-identity azure-ai-inference azure-storage-blob azure-mgmt-resource dotenv`
 
 ## To run the server:
 
