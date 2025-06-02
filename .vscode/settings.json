@@ -1,5 +1,8 @@
 {
+    "editor.formatOnSave": true,
     "python.analysis.extraPaths": [
         "./venv/Lib/site-packages"
-    ]
+    ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
 }
