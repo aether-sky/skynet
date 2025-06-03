@@ -1,5 +1,5 @@
 <script>
-  export let text = 'This is a sleek output frame!';
+  export let text = 'This is where the output will go';
 </script>
 
 <div class="output-panel">

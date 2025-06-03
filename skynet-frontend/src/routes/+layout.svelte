@@ -6,19 +6,19 @@
 </script>
 
 <div class="app">
-  <Header />
+  <!--<Header />-->
 
   <main>
     {@render children()}
   </main>
 
-  <footer>
+  <!--<footer>
     <p>This is where the footer content goes.</p>
-  </footer>
+  </footer>-->
 </div>
 
 <style>
-  .app {
+  /*.app {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -33,9 +33,9 @@
     max-width: 64rem;
     margin: 0 auto;
     box-sizing: border-box;
-  }
+  }*/
 
-  footer {
+  /*footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -51,5 +51,5 @@
     footer {
       padding: 12px 0;
     }
-  }
+  }*/
 </style>
